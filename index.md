@@ -1,4 +1,4 @@
-<img src="footer.png">
+<img width="300px" src="footer.png">
 
 <br/>
 
