@@ -4,8 +4,6 @@
 
 The NWO-funded project HUMAINER AI (KIVI.2019.006) addresses several challenges of trustworthy AI in the context of service provision.
 
-## Outcomes
-
 - 2022.12. Conference Paper (WP2): Fratrič, P., Sileno, G., Klous, S., van Engers, T., **A compression and simulation-based approach to fraud discovery**, Proceedings of the 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022) 
 - 2022.11. Conference Paper (WP1): Skoric, V., Sileno, G., Ghebreab, S., **Legality, Legitimacy, and Instrumental Possibility in Human and Computational Governance for the Public Sector**, International Forum on Digital and Democracy, 2nd edition (IFDaD 2022) 
 - 2022.09. Conference Paper (WP2): Wilms, M., Sileno, G., and Haned, H., **PEBAM: A Profile-based Evaluation Method for Bias Assessment on Mixed Datasets.**, Proceedings of KI 2022, 45th German Conference on Artificial Intelligence. (2022)
