@@ -1,6 +1,6 @@
 <img src="header.png" alt="HUMAINER AI">
 
-The NWO-funded project HUMAINER AI (KIVI.2019.006) aims to study the challenges of trustworthy AI in the context of service provision, both from a computational and from a human/behavioural perspective. The project is a collaboration between IvI and the Amsterdam Business School of the University of Amsterdam, in partnership with KPMG and the Belastingdienst.
+_The NWO-funded project HUMAINER AI (KIVI.2019.006) aims to study the challenges of trustworthy AI in the context of service provision, both from a computational and from a human/behavioural perspective. The project is a collaboration between IvI and the Amsterdam Business School of the University of Amsterdam, in partnership with KPMG and the Belastingdienst._
 
 <br/>
 
