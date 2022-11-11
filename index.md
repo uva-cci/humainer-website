@@ -19,5 +19,3 @@ _The NWO-funded project HUMAINER AI (KIVI.2019.006) aims to study the challenges
 2021.12|WP1|Conference Paper|Pascucci, M., Sileno, G., [Computability of diagrammatic theories for normative positions](https://ebooks.iospress.nl/doi/10.3233/FAIA210333), Proceedings of the 34th International Conference on Legal Knowledge and Information Systems (JURIX 2021)
 2021.09|WP1|Conference Paper|Sileno, G., Grosso, P., [Accounting Value Effects for Responsible Networking](https://dl.acm.org/doi/10.1145/3472951.3473507), Proceedings of ACM SIGCOMM 2021 Workshop on Technologies, Applications, and Uses of a Responsible Internet (TAURIN2021)
 2021.07|WP1|Conference Paper|Pascucci, M., Sileno, G., [The Search for Symmetry in Hohfeldian Modalities](https://link.springer.com/chapter/10.1007/978-3-030-86062-2_9), Proceedings of 12th International Conference on the Theory and Application of Diagrams (DIAGRAMS2021).
-
-<br/
