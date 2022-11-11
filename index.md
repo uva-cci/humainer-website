@@ -1,3 +1,3 @@
-<img src="header.jpg" alt="HUMAINER AI header">
+<img src="header.png" alt="HUMAINER AI header">
 
 test test
