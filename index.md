@@ -9,7 +9,8 @@ _The NWO-funded project HUMAINER AI (KIVI.2019.006) aims to study the challenges
 <br/>
 
 **Outcomes:**
-
+2024.02|WP3|Journal Paper|Blösser, M., & Weihrauch, A. (2024). *A consumer perspective of AI certification – the current certification landscape, consumer approval and directions for future research*. European Journal of Marketing, 58(2), 441-470. https://doi.org/10.1108/EJM-01-2023-0009 
+2023.05|WP2|Thesis|Fratrič, P., *A Simulation-Driven Approach to Non-Compliance*, University of Amsterdam
 2022.12|WP2|Conference Paper|Fratrič, P., Sileno, G., Klous, S., van Engers, T., *A compression and simulation-based approach to fraud discovery*, Proceedings of the 35th International Conference on Legal Knowledge and Information Systems (JURIX 2022) 
 2022.11|WP1|Conference Paper|Skoric, V., Sileno, G., Ghebreab, S., *Legality, Legitimacy, and Instrumental Possibility in Human and Computational Governance for the Public Sector*, International Forum on Digital and Democracy, 2nd edition (IFDaD 2022) 
 2022.09|WP2|Conference Paper|Wilms, M., Sileno, G., and Haned, H., [PEBAM: A Profile-based Evaluation Method for Bias Assessment on Mixed Datasets](https://link.springer.com/chapter/10.1007/978-3-031-15791-2_17), Proceedings of KI 2022, 45th German Conference on Artificial Intelligence. 
